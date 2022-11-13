@@ -149,7 +149,7 @@
         "@types/underscore": "^1.11.3",
         "@types/vscode": "^1.52.0",
         "chai": "^4.3.4",
-        "mocha": "^9.0.2",
+        "mocha": "^9.2.2",
         "sinon": "^12.0.1",
         "ts-loader": "^8.0.18",
         "tslint": "^5.20.1",
